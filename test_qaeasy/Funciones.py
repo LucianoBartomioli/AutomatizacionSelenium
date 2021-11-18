@@ -8,4 +8,12 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 
 driver = webdriver.Chrome(executable_path=r".\driver\chromedriver.exe")
-global driver
+# global driver
+
+
+class Funciones():
+    """
+    Clase contenedora de las funciones
+    """
+    def __init__(self, driver):
+        self.drivers = driver
