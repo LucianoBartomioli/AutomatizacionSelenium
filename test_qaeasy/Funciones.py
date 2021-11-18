@@ -16,4 +16,4 @@ class Funciones():
     Clase contenedora de las funciones
     """
     def __init__(self, driver):
-        self.drivers = driver
+        self.driver = driver
