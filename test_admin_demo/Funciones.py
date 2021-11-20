@@ -79,7 +79,7 @@ class Funciones_globales():
                 print(WebDriverWait(self.driver, 4).until(EC.visibility_of_element_located((By.ID, elemento))))
                 var = self.driver.find_element(By.ID, elemento)
                 self.driver.execute_script("arguments[0].scrollIntoView();", var)
-                var.text
+                var = var.text
                 assert var == texto_esperado, f"El texto obtenido --> {var} no corresponde al texto esperado --> {texto_esperado}"
                 return time.sleep(t)
             except TimeoutException as ex:
