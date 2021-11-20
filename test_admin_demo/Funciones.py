@@ -95,3 +95,4 @@ class Funciones_globales():
             except TimeoutException as ex:
                 print(ex)
                 print(f"No se encontró el elemento {tipo} --> {elemento}")
+
