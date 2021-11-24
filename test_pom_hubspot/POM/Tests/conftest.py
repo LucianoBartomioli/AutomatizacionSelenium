@@ -3,6 +3,7 @@ from selenium import webdriver
 from POM.Config.config import DatosPrueba
 from webdriver_manager.chrome import ChromeDriverManager
 
+
 @pytest.fixture(params=["chrome"], scope='class')
 def init_driver(request):
     if request.param == "chrome":

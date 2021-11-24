@@ -26,8 +26,8 @@ class LoginPage(BasePage):
         self.driver.get(DatosPrueba.BASE_URL)
         self.driver.maximize_window()
 
-    def obtener_titulo_login_page(self, titutlo):
-        return self.obtener_titulo(titutlo)
+    def obtener_titulo_login_page(self, tituto):
+        return self.obtener_titulo(tituto)
 
     def existencia_link_registrarse(self):
         return self.es_visible(self.REGISTRARSE_LINK)

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b6641da-59a9-42eb-98a8-87798dcaf3e8" name="Default Changelist" comment="demo qa">
+      <change afterPath="$PROJECT_DIR$/.idea/AutomatizacionSelenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/.idea/test_demoqa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/demoqa/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/demoqa/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/demoqa/config/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/demoqa/pages/BasePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/demoqa/pages/ElementsPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/demoqa/pages/HomePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/demoqa/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/demoqa/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/demoqa/test/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/demoqa/test/test_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demoqa/demoqa/test/test_home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/archive/output_1637539026.737002.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/report/archive/output_1637521153.8930855.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Maquina1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pom_hubspot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test_pom_hubspot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pom_hubspot/POM/Pages/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pom_hubspot/POM/Pages/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/pytest_html_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/pytest_html_report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/report/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/report/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/report/pytest_html_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_pom_hubspot/POM/Tests/report/pytest_html_report.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21F4IbCT5fLp0LrcpIgZQyIvxPM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_demoqa" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b6641da-59a9-42eb-98a8-87798dcaf3e8" name="Default Changelist" comment="" />
+      <created>1637523423226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637523423226</updated>
+    </task>
+    <task id="LOCAL-00001" summary="demo qa">
+      <created>1637532440557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637532440557</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="demo qa" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo qa" />
+  </component>
+</project>
